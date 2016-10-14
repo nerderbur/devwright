@@ -223,7 +223,7 @@ nav ul a {
 }
 
 input, textarea {
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid black;
 }
 
 nav a.button-collapse {
